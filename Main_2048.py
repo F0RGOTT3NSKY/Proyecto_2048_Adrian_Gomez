@@ -876,27 +876,3 @@ def juego_Aux(restart):
 
 
 main(1)
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-        
